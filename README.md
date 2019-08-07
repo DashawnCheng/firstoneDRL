@@ -6,6 +6,8 @@ DRL学习实录
 
 % use tensorflow to print session
 
+hello.py
+
 import tensorflow as tf    
 
 #建立一个常量运算，加入到默认的计算图中
