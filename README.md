@@ -1,5 +1,5 @@
 
-DRL学习实录
+DQL学习实录
 
 
 #tensorflow 
